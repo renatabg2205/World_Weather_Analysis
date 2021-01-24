@@ -16,7 +16,7 @@ Based on the minimum and maximum temperatures provided by the customer, a csv fi
 
 ### Vacation_Itinerary folder:
 
-Using the Google Directions API, a travel itinerary was created showing the route between four cities selected from the customer’s possible travel destinations. A marker layer map was created to exhibit a pop-up marker for each city on the itinerary.
+Using the Google Directions API, a travel itinerary was created showing the route between four cities selected from the customer’s possible travel destinations. A marker layer map was created to exhibit a pop-up marker for each city on the itinerary as well as a information box describing the Hotel name, the name of the city, country, current weather description and maximum temperature.
 
 ![A travel itinerary between Arraial Do Cabo, Sao Joao Da Barra, Guarapari and Vila Velha and returning to Arraial Do Cabo.](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 ![Suggestions for hotels for each city along the travel itinerary.](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
